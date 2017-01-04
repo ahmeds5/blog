@@ -1,0 +1,20 @@
+body.container {
+  background-color: skyblue;
+
+}
+
+div.important {
+  font-family: sans-serif;
+  font-size: 25px;
+
+}
+
+div.important h1 {
+  text-align: center;
+  color: royalblue;
+  font-family: cursive;
+}
+
+body {
+  background-color: #b28c5e;
+}
